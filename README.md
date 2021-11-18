@@ -1,6 +1,8 @@
 # 2worlds
 
-二之國 - 文字顏色 變色器
+![](https://sgimage.netmarble.com/images/netmarble/ennt/20210608/rlqf1623107599077.png)
+
+二之國 - 非官方 文字顏色 變色器
 
 ## Project setup
 ```
@@ -16,11 +18,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
